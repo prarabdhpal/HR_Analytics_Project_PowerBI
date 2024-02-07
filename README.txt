@@ -1,0 +1,1 @@
+This Project analyzes the Data and helps in finding out What are the major reasons for the Employees to leave the Oragansation.
