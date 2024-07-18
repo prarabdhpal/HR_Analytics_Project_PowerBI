@@ -3,9 +3,6 @@
 ### Overview of the Project
 This project analyzes employee data to identify major reasons for attrition within an organization. The insights provided by the dashboard can help in devising strategies to improve employee retention and overall organizational efficiency.
 
-### Dashboard Preview
-![HR Analytics Dashboard]("C:\Users\prara\OneDrive\Pictures\Screenshots\Screenshot 2024-07-18 151710.png") <!-- Replace with the correct path to the image in your repository -->
-
 ### Dataset Description
 The dataset used for this analysis contains the following columns:
 
