@@ -14,7 +14,7 @@ EmpID, Age, AgeGroup, Attrition, BusinessTravel, DailyRate, Department, Distance
 - **Total Employees**: 1470
 - **Attrition**: 237 employees have left the organization, resulting in an attrition rate of 16.1%.
 - **Average Age**: The average age of the employees is 37 years.
-- **Average Salary**: The average salary of the employees is $6.5K.
+- **Average Salary**: The average salary of the employees is ₹6.5K.
 - **Average Years with the Company**: On average, employees have been with the company for 7 years.
 
 ### Detailed Breakdown
